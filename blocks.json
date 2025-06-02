@@ -1,0 +1,717 @@
+{
+    "table_row_DqFWJc": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_rY6mTb": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Glucosamine",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/glucosamine_f1ab2b5e-4385-44fd-b2f8-e1801a3b5a6a.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_wnPMrh": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "2500mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_RcyAte": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "1200mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_L4NRtk": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "1050mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_Be6BcD": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "1200mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_rY6mTb",
+        "table_cell_wnPMrh",
+        "table_cell_RcyAte",
+        "table_cell_L4NRtk",
+        "table_cell_Be6BcD"
+      ]
+    },
+    "table_row_jVactq": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_dAjDiE": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "MSM",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/msm_aa91f9e8-90af-4740-a00a-865036167306.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_PdnKQ3": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "800mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_gAdiHd": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_h6dLjR": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "750mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_4TMbDq": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "500mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_dAjDiE",
+        "table_cell_PdnKQ3",
+        "table_cell_gAdiHd",
+        "table_cell_h6dLjR",
+        "table_cell_4TMbDq"
+      ]
+    },
+    "table_row_EKzR9e": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_eF9mnW": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Chondrotin",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/chondrotin_f5bf7e3b-90e9-4fe5-b440-976f75ce419d.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_WgphLa": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "300mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_yJVhUG": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_fKU9UA": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "405mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_EQraD3": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "600mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_eF9mnW",
+        "table_cell_WgphLa",
+        "table_cell_yJVhUG",
+        "table_cell_fKU9UA",
+        "table_cell_EQraD3"
+      ]
+    },
+    "table_row_i89Vi3": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_6fpBhF": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Hyaluronic Acid",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/Hyaluronic_Acid.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_8fQXaU": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "42mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_EFt36F": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_GAtEJz": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_DACiry": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_6fpBhF",
+        "table_cell_8fQXaU",
+        "table_cell_EFt36F",
+        "table_cell_GAtEJz",
+        "table_cell_DACiry"
+      ]
+    },
+    "table_row_NCDBLq": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_fbVyt9": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Green Lipped Mussels",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/Green_Lipped_Mussels_71a07367-b41a-447c-894a-8eb63d611da9.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_6gMckU": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "200mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_VWFFn6": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "200mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_fcdcwj": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_RGPNWq": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_fbVyt9",
+        "table_cell_6gMckU",
+        "table_cell_VWFFn6",
+        "table_cell_fcdcwj",
+        "table_cell_RGPNWq"
+      ]
+    },
+    "table_row_QXx3nP": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_wNrPQt": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Yucca Schidigera",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/Yucca_Schidigera_bc6535e1-83f4-4af0-a70e-0dbc48e63edb.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_BdMmFK": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "5mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_U8GD8d": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_zwpxCa": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_RjbLMe": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_wNrPQt",
+        "table_cell_BdMmFK",
+        "table_cell_U8GD8d",
+        "table_cell_zwpxCa",
+        "table_cell_RjbLMe"
+      ]
+    },
+    "table_row_tHhRq4": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_fhaTyB": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Vitamin C",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/Vitamin_C_23e49164-fa6f-44fe-b9f3-192b00aa9784.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_E3fjLL": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "10mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_Y8C8A6": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_j8ajVX": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "405mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_dTrty8": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_fhaTyB",
+        "table_cell_E3fjLL",
+        "table_cell_Y8C8A6",
+        "table_cell_j8ajVX",
+        "table_cell_dTrty8"
+      ]
+    },
+    "table_row_gCHpgg": {
+      "type": "_table_row",
+      "settings": {},
+      "blocks": {
+        "table_cell_CKJk8c": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "row_header",
+            "title": "Fish Oil",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/Fish_Oil.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_e4YhNW": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "6mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_JqMMK8": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "300mg ✅",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_xnamqB": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_qrpPg7": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "cell",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "0mg ❌",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_CKJk8c",
+        "table_cell_e4YhNW",
+        "table_cell_JqMMK8",
+        "table_cell_xnamqB",
+        "table_cell_qrpPg7"
+      ]
+    },
+    "table_header": {
+      "type": "_table_header",
+      "static": true,
+      "settings": {},
+      "blocks": {
+        "table_cell_pMYJAj": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "column_header",
+            "title": "",
+            "title_style": "normal",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_PTYQFz": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "column_header",
+            "title": "",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/ProductIMage_Logo_JCLB_0fd0f707-1ab9-4046-8fe2-98ba1448c051.png",
+            "note": "",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": true
+          },
+          "blocks": {}
+        },
+        "table_cell_T84gmb": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "column_header",
+            "title": "Best Selling \n<br>\nAlternative 1",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/plastic_1.png",
+            "note": "(2 Chews 120lb Dog)",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_PfM6Rk": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "column_header",
+            "title": "Best Selling \n<br>\nAlternative 2",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/plastic_2.png",
+            "note": "(2 Chews 120lb Dog)",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        },
+        "table_cell_7c6Bee": {
+          "type": "_table_cell",
+          "settings": {
+            "cell_type": "column_header",
+            "title": "Best Selling \n<br>\nAlternative 3",
+            "title_style": "normal",
+            "icon": "shopify://shop_images/plastic_3.png",
+            "note": "(2 Chews 120lb Dog)",
+            "text": "",
+            "text_style": "numeric",
+            "highlight_cell": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "table_cell_pMYJAj",
+        "table_cell_PTYQFz",
+        "table_cell_T84gmb",
+        "table_cell_PfM6Rk",
+        "table_cell_7c6Bee"
+      ]
+    }
+  }
